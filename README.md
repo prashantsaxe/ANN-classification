@@ -1,4 +1,4 @@
-# prashantsaxe-ann-classification
+# ANN-classification
 
 Artificial Neural Network (ANN) based classification and regression on the **Churn Modelling dataset**, including:
 
